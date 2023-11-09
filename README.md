@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m a PhD student at EPFL, Switzerland.
 - 🔭 My current research focuses on neural algorithm reasoning and graph machine learning with industrial applications. If you are interested in this area, [here](https://github.com/zepengzhang/awesome-neural-algorithmic-reasoning) is a collection of papers in neural algorithmic reasoning!
 - 🔭 Previously, I have also designed some nonconvex optimization algorithms for solving rate maximization problems in communication and portfolio design problems in finance.
-- ⚡ I spend most of my time doing [research](https://scholar.google.com/citations?user=hyBOSa0AAAAJ&hl=zh-CN&oi=ao). Outside of that, I love traveling and exploring different things. Currently, I also spend some time cooking, reading, meditating, running, and learning French.
+- ⚡ I spend most of my time doing [research](https://scholar.google.com/citations?user=hyBOSa0AAAAJ&hl=zh-CN&oi=ao). Outside of that, I love traveling and exploring different things. Currently, I also spend some time cooking, reading, meditating, running, precticing guitar, and learning French.
 - 📫 Some more info about me: [zepengzhang.com](https://zepengzhang.com/).
