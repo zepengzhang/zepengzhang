@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 
 - 🌱 I’m a PhD student at EPFL, Switzerland.
 - 🔭 My current research focuses on neural algorithm reasoning and graph machine learning with industrial applications. If you are interested in this area, [here](https://github.com/zepengzhang/awesome-neural-algorithmic-reasoning) is a collection of the paper in this field!
