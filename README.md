@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 🔭 Previously, I have also designed some nonconvex optimization algorithms for solving rate maximization problems in communication and portfolio design problems in finance.
 - ⚡ I spend most of my time doing [research](https://scholar.google.com/citations?user=hyBOSa0AAAAJ&hl=zh-CN&oi=ao). Outside of that, I love traveling and exploring different things. Recently, I also spend some time cooking, reading, meditating, running, practicing guitar, and learning French.
 - 📫 Some more info about me: [zepengzhang.com](https://zepengzhang.com/).
+
+![](https://komarev.com/ghpvc/?username=zepengzhang)
