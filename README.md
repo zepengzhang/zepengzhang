@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m a PhD student at EPFL, Switzerland.
-- 🔭 My current research focuses on neural algorithm reasoning and graph machine learning with industrial applications. If you are interested in this area, [here](https://github.com/zepengzhang/awesome-neural-algorithmic-reasoning) is a collection of papers in neural algorithmic reasoning!
+- 🌱 I’m a PhD student at EPFL, Switzerland. Currently, I am at Télécom Paris, Institut Polytechnique de Paris, as a visiting student.
+- 🔭 My current research focuses on graph machine learning and generative modeling with industrial applications. 
 - 😄 Before coming to Switzerland, I was fortunate to spend a nice time at WHU, CityU, ShanghaiTech, and PKU.
 - 🔭 Previously, I have also designed some nonconvex optimization algorithms for solving rate maximization problems in communication and portfolio design problems in finance.
-- ⚡ I spend most of my time doing [research](https://scholar.google.com/citations?user=hyBOSa0AAAAJ&hl=zh-CN&oi=ao). Outside of that, I love traveling and exploring different things. Recently, I also spend some time hiking, reading, meditating, running, and practicing guitar.
-- 📫 Some more info about me: [zepengzhang.com](https://zepengzhang.com/).
+- ⚡ I spend most of my time doing [research](https://scholar.google.com/citations?user=hyBOSa0AAAAJ&hl=zh-CN&oi=ao). Outside of that, I love hiking, traveling, and exploring different things. 
+- 📫 Some more info about me: [zepengzhang.github.io](https://zepengzhang.github.io/).
 
 ![](https://komarev.com/ghpvc/?username=zepengzhang)
