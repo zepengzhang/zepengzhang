@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m a PhD student at EPFL, Switzerland. Currently, I am at Télécom Paris, Institut Polytechnique de Paris, as a visiting student.
+- 🌱 I’m a PhD student at EPFL, Switzerland. During my PhD, I also spent some time at Télécom Paris, Institut Polytechnique de Paris, as a visiting student.
 - 🔭 My current research focuses on graph machine learning and generative modeling with industrial applications. 
 - 😄 Before coming to Switzerland, I was fortunate to spend a nice time at WHU, CityU, ShanghaiTech, and PKU.
 - 🔭 Previously, I have also designed some nonconvex optimization algorithms for solving rate maximization problems in communication and portfolio design problems in finance.
