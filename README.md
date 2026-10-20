@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m a PhD student at EPFL, Switzerland. During my PhD, I also spent some time at Télécom Paris, Institut Polytechnique de Paris, as a visiting student.
-- 🔭 My current research focuses on graph machine learning and generative modeling with industrial applications. 
+- 🔭 My current research focuses on generative modeling and graph machine learning. 
 - 😄 Before coming to Switzerland, I was fortunate to spend a nice time at WHU, CityU, ShanghaiTech, and PKU.
 - 🔭 Previously, I have also designed some nonconvex optimization algorithms for solving rate maximization problems in communication and portfolio design problems in finance.
 - ⚡ I spend most of my time doing [research](https://scholar.google.com/citations?user=hyBOSa0AAAAJ&hl=zh-CN&oi=ao). Outside of that, I love hiking, traveling, and exploring different things. 
